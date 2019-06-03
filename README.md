@@ -2,7 +2,7 @@
 
 Jest is a powerful, flexible testing framework, and Enzyme provides tools to test React and Redux applications.
 
-### This course project I'll learn to test:
+### In this course project I'll learn to test:
 
 - Connected and unconnected components
 - Component state and Redux state
