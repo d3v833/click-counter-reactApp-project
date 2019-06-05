@@ -44,3 +44,14 @@ button {
 	transform: translateY(0.2rem);
 	box-shadow: 0 2px 2px 0.06px rgba(0, 0, 0, 0.01);
 }
+
+/* error styling for challenge #2 */
+.error {
+	font-size: 150%;
+	color: lightsalmon;
+}
+
+/* for challenge #2 and #3 to show / hide error message */
+.hidden {
+	display: none;
+}
