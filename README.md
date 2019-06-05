@@ -1,13 +1,16 @@
 # Learning Test Driven Development with Jest and Enzyme!
 
-Jest is a powerful, flexible testing framework, and Enzyme provides tools to test React and Redux applications.
+Click Counter App Project - Designed by Bonnie Schulkin, Software Engineer at Lyft
 
-### In this course project I'll learn to test:
+### In this course project I learned the process of testing using Jest and Enzyme:
 
-- Connected and unconnected components
-- Component state and Redux state
-- Action creators and reducers
-- Complex action creators that use Redux Thunk and Axios
-- Action creators called from connected components
+- Learned how to do Red-Green Testing || Test Driven Development
+- used enzymes shallow() to render component
+- used find() to test if the DOM elements were rendered
+- used setState() & state() to test Initial States
+- used simulate to interact with renderd elements (clicked button)
+- tested components for updates after interaction
+- creatd re-usable setup() and findByTestAttr() functions
+- learned when to repeat code only if it makes it easier to understand by others
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
